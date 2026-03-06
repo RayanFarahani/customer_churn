@@ -232,13 +232,6 @@ Group accounts reduce churn from ~33% to ~6%.
 - Real-time usage alerts  
 - Auto plan recommendations  
 
----
-
-# 🧠 Tools Used
-
-- Python (Pandas, NumPy)  
-- Power BI (Dashboard development)  
-- Data cleaning and exploratory analysis  
 
 ---
 
